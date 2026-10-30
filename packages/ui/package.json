@@ -266,6 +266,10 @@
       "types": "./dist/android-cloud/native-cloud-service-info.d.ts",
       "import": "./dist/android-cloud/native-cloud-service-info.js",
       "default": "./dist/android-cloud/native-cloud-service-info.js"
+    },
+    "./styles/mobile-workspaces.css": {
+      "eliza-source": "./src/styles/mobile-workspaces.css",
+      "default": "./dist/styles/mobile-workspaces.css"
     }
   },
   "peerDependencies": {
